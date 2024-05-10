@@ -1,1 +1,4 @@
-# WebSpy-Vercel
+# WebSpy-Vercel <br> <a href="https://nodejs.org/en"><img alt="" src="https://img.shields.io/badge/Node.js-v16.4.0-339933?logo=node.js"/></a> <a href="https://nodejs.org/en"><img alt="" src="https://img.shields.io/badge/Mongoose-v5.13.12-brown?logo=mongoose&logoColor=brown"/></a> <a href="https://nodejs.org/en"><img alt="" src="https://img.shields.io/badge/Express-v4.17.1-929292?logo=express&logoColor=white"/></a> <a href="https://www.mongodb.com/"><img alt="" src="https://img.shields.io/badge/MongoDB%20Atlas-v4.4.6-009441?logo=mongodb&logoColor=009441"/></a> <a href="https://vercel.com"><img alt="" src="https://img.shields.io/badge/Deployed%20with-Vercel-black?logo=vercel"/></a><br>
+
+Server-side repo. for [W3bSpy](https://github.com/3rr0r-505/WebSpy) Browser Extension.
+- Note: add `MONGODB_URI` & `PORT` in .env variables.
